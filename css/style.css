@@ -1,0 +1,19 @@
+/* ========== Navbar Styles ========== */
+#navbar {
+  position: fixed;
+  top: 0; /* Always stays at the top */
+  width: 100%; /* Full width */
+  left: 0;
+  right: 0;
+}
+
+/* ========== Welcome Section Styles ========== */
+#welcome-section {
+  height: 100vh;
+}
+
+@media (min-width: 768px) {
+  body {
+    background-color: #cecece;
+  }
+}
